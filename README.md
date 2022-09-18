@@ -65,3 +65,8 @@ quality, customers impact, area of improvement.
 9. I would rate negotiation skill. I had very poor negotiation skill earlier, now I feel learning all the
 necessary negotiation skills like principled negotiation, awareness, adaptability, and persistence I
 feel confident that I will be able to negotiate effectively in future.
+10. Initially I didn’t understand the responsibilities or difference between functional manager and a
+project manger and how to become one, now I understand the differences, responsibilities, skills
+required to become one and the certifications that are available. As I am in a mid-senior level
+position, I am planning to take up PMP certification as it will help me transition to senior level
+roles.
