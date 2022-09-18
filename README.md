@@ -23,7 +23,7 @@ project, cost of setup, and through cost benefit analysis.
 
 Finally a conclusion is submitted to the game development company.
 
-Please refer the attached project proposal.
+Please refer the attached project proposal. Link to the Project Presentation on Youtube : https://youtu.be/nvVjkWriN28 
 
 Top 10 learnings from the Project Management course and implementing the project:
 
